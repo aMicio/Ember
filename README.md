@@ -7,7 +7,7 @@ Ember is a PoW/PoS-based cryptocurrency.
 * PoW Supply: ~~40,000,000~~
 * PoW Blocks: ~~380,005~~
 * Maximum Supply: ~~850,000,000~~ 4.5 Billion and climbing. Dev hit by a bus?
-* PoS: ~~720% Annually (Until max supply is reached)~~ Apparently 7200%?
+* PoS: ~~720% Annually (Until max supply is reached)~~ ~7200% until 31 October 2017, then ~720%.
 * PoS Start Block: 3,805
 * PoS Maturity: 10 Hours until coins are valid for stake
 * TX maturity (Mined): 60 Confirmations / (Sent/Received): 8 Confirmations
